@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">family_chat_socket</string>
+    <string name="start">Start</string>
+    <string name="enter_address">Enter address</string>
+    <string name="enter_username_or_phone">Enter username or phone</string>
+    <string name="typing">is typing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Message</string>
+    <string name="capture">Capture</string>
+</resources>
